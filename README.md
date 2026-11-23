@@ -4,7 +4,7 @@ Windows updates for the unofficial co-op modpack for **TCG Card Shop Simulator**
 
 ### Install the updater for the first time
 
-If you already have the full 1.7.0.0, 1.8.0.0 or 1.9.0.0 Pokémon co-op pack, close the game and extract the Windows setup ZIP. Open **ShopSetup.exe**, confirm the game folder, and choose **Apply update**. [Download Windows setup](https://github.com/CalamityTheWatcher/CardShopCoop-Updates/releases/download/v1.12.0.1/CardShopCoop-1.12.0.1-Windows-Setup.zip)
+If you already have the full 1.7.0.0, 1.8.0.0 or 1.9.0.0 Pokémon co-op pack, close the game and extract the Windows setup ZIP. Open **ShopSetup.exe**, confirm the game folder, and choose **Apply update**. [Download Windows setup](https://github.com/CalamityTheWatcher/CardShopCoop-Updates/releases/download/v1.12.0.2/CardShopCoop-1.12.0.2-Windows-Setup.zip)
 
 On a new PC, install the game through Steam and get the **full Pokémon co-op setup ZIP** from your host. Extract the whole archive and open **ShopSetup.exe**. In **TCG Overhaul Installer**, choose **Install**, then **Open game** once setup finishes.
 

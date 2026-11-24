@@ -1,7 +1,7 @@
 {
   "channel": "launcher",
-  "version": "1.13.0.5",
-  "bytes": 2670080,
-  "sha256": "64b6eff8e0799b8120f2dcb730335af088d750edaa407edec04804b1e8d3ee01",
-  "notes": "- Fixed an issue where opening Settings could take a second or two and show the shop background in horizontal bands.\r\n- The launcher checks for updates when it opens and every minute afterward. Choose Update to see download progress and restart the launcher, or Close to keep using it.\r\n- After a launcher update, the launcher shows what changed. Your game can stay open."
+  "version": "1.13.0.6",
+  "bytes": 2670592,
+  "sha256": "600d8f15454229f1f1d844e387430e81b0826876d2454b226329c3f5b0adfdb8",
+  "notes": "- Fixed an issue where Settings opened slowly and the background appeared in strips.\r\n- The launcher checks for updates when it opens and every minute afterward. Update shows download progress and restarts the launcher. Close lets you return to what you were doing.\r\n- Fixed an issue where the update prompt could cut off its restart message. The prompt shows both versions, and the launcher shows the changelog after it restarts."
 }

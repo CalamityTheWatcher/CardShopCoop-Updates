@@ -1,0 +1,7 @@
+{
+  "channel": "launcher",
+  "version": "1.13.0.5",
+  "bytes": 2670080,
+  "sha256": "64b6eff8e0799b8120f2dcb730335af088d750edaa407edec04804b1e8d3ee01",
+  "notes": "- Fixed an issue where opening Settings could take a second or two and show the shop background in horizontal bands.\r\n- The launcher checks for updates when it opens and every minute afterward. Choose Update to see download progress and restart the launcher, or Close to keep using it.\r\n- After a launcher update, the launcher shows what changed. Your game can stay open."
+}
